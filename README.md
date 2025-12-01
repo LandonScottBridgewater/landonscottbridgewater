@@ -6,5 +6,6 @@ I began **Roblox coding (Lua)** and have since expanded into **Python**, buildin
 
 This account is a showcase of some of my projects and experiments.
 
-📫 [email me](mailto:landon.bridgewater@icloud.com)
 💼 [LinkedIn](www.linkedin.com/in/landonscottbridgewater)
+
+📫 [email me](mailto:landon.bridgewater@icloud.com)
